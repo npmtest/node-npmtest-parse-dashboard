@@ -1,6 +1,6 @@
 # npmtest-parse-dashboard
 
-#### test coverage for  [parse-dashboard (v1.0.25)](https://github.com/ParsePlatform/parse-dashboard)  [![npm package](https://img.shields.io/npm/v/npmtest-parse-dashboard.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-parse-dashboard) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-parse-dashboard.svg)](https://travis-ci.org/npmtest/node-npmtest-parse-dashboard)
+#### basic test coverage for  [parse-dashboard (v1.0.25)](https://github.com/ParsePlatform/parse-dashboard)  [![npm package](https://img.shields.io/npm/v/npmtest-parse-dashboard.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-parse-dashboard) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-parse-dashboard.svg)](https://travis-ci.org/npmtest/node-npmtest-parse-dashboard)
 
 #### The Parse Dashboard
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-parse-dashboard/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-parse-dashboard/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-parse-dashboard/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-parse-dashboard/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-parse-dashboard/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-parse-dashboard/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-parse-dashboard/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-parse-dashboard/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-parse-dashboard/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-parse-dashboard/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-parse-dashboard/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-parse-dashboard/build/coverage.html/index.html)
 
