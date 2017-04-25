@@ -1,5 +1,5 @@
-<svg height="1870" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="1870" fill="#555" width="720"></rect>
+<svg height="1902" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1902" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26">8 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
@@ -49,72 +49,74 @@
 <tspan x="10" y="746">  │ ├── encodeurl@1.0.1 </tspan>
 <tspan x="10" y="762">  │ ├── escape-html@1.0.3 </tspan>
 <tspan x="10" y="778">  │ ├── etag@1.8.0 </tspan>
-<tspan x="10" y="794">  │ ├─┬ finalhandler@1.0.1 </tspan>
-<tspan x="10" y="810">  │ │ └── debug@2.6.3 </tspan>
-<tspan x="10" y="826">  │ ├── fresh@0.5.0 </tspan>
-<tspan x="10" y="842">  │ ├── merge-descriptors@1.0.1 </tspan>
-<tspan x="10" y="858">  │ ├── methods@1.1.2 </tspan>
-<tspan x="10" y="874">  │ ├── parseurl@1.3.1 </tspan>
-<tspan x="10" y="890">  │ ├── path-to-regexp@0.1.7 </tspan>
-<tspan x="10" y="906">  │ ├─┬ proxy-addr@1.1.4 </tspan>
-<tspan x="10" y="922">  │ │ ├── forwarded@0.1.0 </tspan>
-<tspan x="10" y="938">  │ │ └── ipaddr.js@1.3.0 </tspan>
-<tspan x="10" y="954">  │ ├── range-parser@1.2.0 </tspan>
-<tspan x="10" y="970">  │ ├─┬ send@0.15.1 </tspan>
-<tspan x="10" y="986">  │ │ ├── destroy@1.0.4 </tspan>
-<tspan x="10" y="1002">  │ │ └── mime@1.3.4 </tspan>
-<tspan x="10" y="1018">  │ ├── serve-static@1.12.1 </tspan>
-<tspan x="10" y="1034">  │ ├── setprototypeof@1.0.3 </tspan>
-<tspan x="10" y="1050">  │ ├── statuses@1.3.1 </tspan>
-<tspan x="10" y="1066">  │ ├── utils-merge@1.0.0 </tspan>
-<tspan x="10" y="1082">  │ └── vary@1.1.1 </tspan>
-<tspan x="10" y="1098">  ├─┬ json-file-plus@3.3.0 </tspan>
-<tspan x="10" y="1114">  │ ├── is@3.2.1 </tspan>
-<tspan x="10" y="1130">  │ ├── node.extend@1.1.6 </tspan>
-<tspan x="10" y="1146">  │ └─┬ promiseback@2.0.2 </tspan>
-<tspan x="10" y="1162">  │   ├── is-callable@1.1.3 </tspan>
-<tspan x="10" y="1178">  │   └─┬ promise-deferred@2.0.1 </tspan>
-<tspan x="10" y="1194">  │     └─┬ promise@6.1.0 </tspan>
-<tspan x="10" y="1210">  │       └── asap@1.0.0 </tspan>
-<tspan x="10" y="1226">  ├─┬ package-json@2.4.0 </tspan>
-<tspan x="10" y="1242">  │ ├─┬ got@5.7.1 </tspan>
-<tspan x="10" y="1258">  │ │ ├─┬ create-error-class@3.0.2 </tspan>
-<tspan x="10" y="1274">  │ │ │ └── capture-stack-trace@1.0.0 </tspan>
-<tspan x="10" y="1290">  │ │ ├── duplexer2@0.1.4 </tspan>
-<tspan x="10" y="1306">  │ │ ├── is-redirect@1.0.0 </tspan>
-<tspan x="10" y="1322">  │ │ ├── is-retry-allowed@1.1.0 </tspan>
-<tspan x="10" y="1338">  │ │ ├── is-stream@1.1.0 </tspan>
-<tspan x="10" y="1354">  │ │ ├── lowercase-keys@1.0.0 </tspan>
-<tspan x="10" y="1370">  │ │ ├── node-status-codes@1.0.0 </tspan>
-<tspan x="10" y="1386">  │ │ ├── object-assign@4.1.1 </tspan>
-<tspan x="10" y="1402">  │ │ ├─┬ parse-json@2.2.0 </tspan>
-<tspan x="10" y="1418">  │ │ │ └─┬ error-ex@1.3.1 </tspan>
-<tspan x="10" y="1434">  │ │ │   └── is-arrayish@0.2.1 </tspan>
-<tspan x="10" y="1450">  │ │ ├─┬ pinkie-promise@2.0.1 </tspan>
-<tspan x="10" y="1466">  │ │ │ └── pinkie@2.0.4 </tspan>
-<tspan x="10" y="1482">  │ │ ├── read-all-stream@3.1.0 </tspan>
-<tspan x="10" y="1498">  │ │ ├─┬ readable-stream@2.2.9 </tspan>
-<tspan x="10" y="1514">  │ │ │ ├── buffer-shims@1.0.0 </tspan>
-<tspan x="10" y="1530">  │ │ │ ├── core-util-is@1.0.2 </tspan>
-<tspan x="10" y="1546">  │ │ │ ├── isarray@1.0.0 </tspan>
-<tspan x="10" y="1562">  │ │ │ ├── process-nextick-args@1.0.7 </tspan>
-<tspan x="10" y="1578">  │ │ │ ├── string_decoder@1.0.0 </tspan>
-<tspan x="10" y="1594">  │ │ │ └── util-deprecate@1.0.2 </tspan>
-<tspan x="10" y="1610">  │ │ ├── timed-out@3.1.3 </tspan>
-<tspan x="10" y="1626">  │ │ ├── unzip-response@1.0.2 </tspan>
-<tspan x="10" y="1642">  │ │ └─┬ url-parse-lax@1.0.0 </tspan>
-<tspan x="10" y="1658">  │ │   └── prepend-http@1.0.4 </tspan>
-<tspan x="10" y="1674">  │ ├─┬ registry-auth-token@3.1.2 </tspan>
-<tspan x="10" y="1690">  │ │ └─┬ rc@1.2.1 </tspan>
-<tspan x="10" y="1706">  │ │   ├── deep-extend@0.4.1 </tspan>
-<tspan x="10" y="1722">  │ │   ├── ini@1.3.4 </tspan>
-<tspan x="10" y="1738">  │ │   ├── minimist@1.2.0 </tspan>
-<tspan x="10" y="1754">  │ │   └── strip-json-comments@2.0.1 </tspan>
-<tspan x="10" y="1770">  │ ├── registry-url@3.1.0 </tspan>
-<tspan x="10" y="1786">  │ └── semver@5.3.0 </tspan>
-<tspan x="10" y="1802">  ├─┬ passport@0.3.2 </tspan>
-<tspan x="10" y="1818">  │ ├── passport-strategy@1.0.0 </tspan>
-<tspan x="10" y="1834">  │ └── pause@0.0.1 </tspan>
-<tspan x="10" y="1850">  └── passport-local@1.0.0</tspan>
+<tspan x="10" y="794">  │ ├─┬ finalhandler@1.0.2 </tspan>
+<tspan x="10" y="810">  │ │ └─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="826">  │ │   └── ms@0.7.3 </tspan>
+<tspan x="10" y="842">  │ ├── fresh@0.5.0 </tspan>
+<tspan x="10" y="858">  │ ├── merge-descriptors@1.0.1 </tspan>
+<tspan x="10" y="874">  │ ├── methods@1.1.2 </tspan>
+<tspan x="10" y="890">  │ ├── parseurl@1.3.1 </tspan>
+<tspan x="10" y="906">  │ ├── path-to-regexp@0.1.7 </tspan>
+<tspan x="10" y="922">  │ ├─┬ proxy-addr@1.1.4 </tspan>
+<tspan x="10" y="938">  │ │ ├── forwarded@0.1.0 </tspan>
+<tspan x="10" y="954">  │ │ └── ipaddr.js@1.3.0 </tspan>
+<tspan x="10" y="970">  │ ├── range-parser@1.2.0 </tspan>
+<tspan x="10" y="986">  │ ├─┬ send@0.15.1 </tspan>
+<tspan x="10" y="1002">  │ │ ├── destroy@1.0.4 </tspan>
+<tspan x="10" y="1018">  │ │ └── mime@1.3.4 </tspan>
+<tspan x="10" y="1034">  │ ├── serve-static@1.12.1 </tspan>
+<tspan x="10" y="1050">  │ ├── setprototypeof@1.0.3 </tspan>
+<tspan x="10" y="1066">  │ ├── statuses@1.3.1 </tspan>
+<tspan x="10" y="1082">  │ ├── utils-merge@1.0.0 </tspan>
+<tspan x="10" y="1098">  │ └── vary@1.1.1 </tspan>
+<tspan x="10" y="1114">  ├─┬ json-file-plus@3.3.0 </tspan>
+<tspan x="10" y="1130">  │ ├── is@3.2.1 </tspan>
+<tspan x="10" y="1146">  │ ├── node.extend@1.1.6 </tspan>
+<tspan x="10" y="1162">  │ └─┬ promiseback@2.0.2 </tspan>
+<tspan x="10" y="1178">  │   ├── is-callable@1.1.3 </tspan>
+<tspan x="10" y="1194">  │   └─┬ promise-deferred@2.0.1 </tspan>
+<tspan x="10" y="1210">  │     └─┬ promise@6.1.0 </tspan>
+<tspan x="10" y="1226">  │       └── asap@1.0.0 </tspan>
+<tspan x="10" y="1242">  ├─┬ package-json@2.4.0 </tspan>
+<tspan x="10" y="1258">  │ ├─┬ got@5.7.1 </tspan>
+<tspan x="10" y="1274">  │ │ ├─┬ create-error-class@3.0.2 </tspan>
+<tspan x="10" y="1290">  │ │ │ └── capture-stack-trace@1.0.0 </tspan>
+<tspan x="10" y="1306">  │ │ ├── duplexer2@0.1.4 </tspan>
+<tspan x="10" y="1322">  │ │ ├── is-redirect@1.0.0 </tspan>
+<tspan x="10" y="1338">  │ │ ├── is-retry-allowed@1.1.0 </tspan>
+<tspan x="10" y="1354">  │ │ ├── is-stream@1.1.0 </tspan>
+<tspan x="10" y="1370">  │ │ ├── lowercase-keys@1.0.0 </tspan>
+<tspan x="10" y="1386">  │ │ ├── node-status-codes@1.0.0 </tspan>
+<tspan x="10" y="1402">  │ │ ├── object-assign@4.1.1 </tspan>
+<tspan x="10" y="1418">  │ │ ├─┬ parse-json@2.2.0 </tspan>
+<tspan x="10" y="1434">  │ │ │ └─┬ error-ex@1.3.1 </tspan>
+<tspan x="10" y="1450">  │ │ │   └── is-arrayish@0.2.1 </tspan>
+<tspan x="10" y="1466">  │ │ ├─┬ pinkie-promise@2.0.1 </tspan>
+<tspan x="10" y="1482">  │ │ │ └── pinkie@2.0.4 </tspan>
+<tspan x="10" y="1498">  │ │ ├── read-all-stream@3.1.0 </tspan>
+<tspan x="10" y="1514">  │ │ ├─┬ readable-stream@2.2.9 </tspan>
+<tspan x="10" y="1530">  │ │ │ ├── buffer-shims@1.0.0 </tspan>
+<tspan x="10" y="1546">  │ │ │ ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="1562">  │ │ │ ├── isarray@1.0.0 </tspan>
+<tspan x="10" y="1578">  │ │ │ ├── process-nextick-args@1.0.7 </tspan>
+<tspan x="10" y="1594">  │ │ │ ├── string_decoder@1.0.0 </tspan>
+<tspan x="10" y="1610">  │ │ │ └── util-deprecate@1.0.2 </tspan>
+<tspan x="10" y="1626">  │ │ ├── timed-out@3.1.3 </tspan>
+<tspan x="10" y="1642">  │ │ ├── unzip-response@1.0.2 </tspan>
+<tspan x="10" y="1658">  │ │ └─┬ url-parse-lax@1.0.0 </tspan>
+<tspan x="10" y="1674">  │ │   └── prepend-http@1.0.4 </tspan>
+<tspan x="10" y="1690">  │ ├─┬ registry-auth-token@3.3.0 </tspan>
+<tspan x="10" y="1706">  │ │ ├─┬ rc@1.2.1 </tspan>
+<tspan x="10" y="1722">  │ │ │ ├── deep-extend@0.4.1 </tspan>
+<tspan x="10" y="1738">  │ │ │ ├── ini@1.3.4 </tspan>
+<tspan x="10" y="1754">  │ │ │ ├── minimist@1.2.0 </tspan>
+<tspan x="10" y="1770">  │ │ │ └── strip-json-comments@2.0.1 </tspan>
+<tspan x="10" y="1786">  │ │ └── safe-buffer@5.0.1 </tspan>
+<tspan x="10" y="1802">  │ ├── registry-url@3.1.0 </tspan>
+<tspan x="10" y="1818">  │ └── semver@5.3.0 </tspan>
+<tspan x="10" y="1834">  ├─┬ passport@0.3.2 </tspan>
+<tspan x="10" y="1850">  │ ├── passport-strategy@1.0.0 </tspan>
+<tspan x="10" y="1866">  │ └── pause@0.0.1 </tspan>
+<tspan x="10" y="1882">  └── passport-local@1.0.0</tspan>
 </text>
 </svg>
